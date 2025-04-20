@@ -1,2 +1,2 @@
-# backend-webscrapping-informatika
-Kelas Informatika Analisis Data (Web Scrapping)
+# sdb-webscraping-informatika
+Kelas Informatika Analisis Data (Web Scraping)
